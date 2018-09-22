@@ -146,24 +146,7 @@
           <Name>UL2CM3(-S0 -C0 -P0 ) -FN1 -FC1000 -FD20020000 -FF0STM32F7x_1024 -FL0100000 -FS08000000 -FP0($$Device:STM32F767IGTx$CMSIS\Flash\STM32F7x_1024.FLM)</Name>
         </SetRegEntry>
       </TargetDriverDllRegistry>
-      <Breakpoint>
-        <Bp>
-          <Number>0</Number>
-          <Type>0</Type>
-          <LineNumber>52</LineNumber>
-          <EnabledFlag>1</EnabledFlag>
-          <Address>134330792</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk-port\main_loop_stm32_raw.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\awtk\../awtk-port/main_loop_stm32_raw.c\52</Expression>
-        </Bp>
-      </Breakpoint>
+      <Breakpoint/>
       <Tracepoint>
         <THDelay>0</THDelay>
       </Tracepoint>
@@ -471,7 +454,7 @@
 
   <Group>
     <GroupName>USER</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -515,7 +498,7 @@
 
   <Group>
     <GroupName>CORE</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2482,30 +2465,6 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\awtk\src\platforms\raw\fs_os.c</PathWithFileName>
-      <FilenameWithoutPath>fs_os.c</FilenameWithoutPath>
-      <RteFlg>0</RteFlg>
-      <bShared>0</bShared>
-    </File>
-    <File>
-      <GroupNumber>8</GroupNumber>
-      <FileNumber>164</FileNumber>
-      <FileType>1</FileType>
-      <tvExp>0</tvExp>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <bDave2>0</bDave2>
-      <PathWithFileName>..\awtk\src\platforms\raw\mutex_null.c</PathWithFileName>
-      <FilenameWithoutPath>mutex_null.c</FilenameWithoutPath>
-      <RteFlg>0</RteFlg>
-      <bShared>0</bShared>
-    </File>
-    <File>
-      <GroupNumber>8</GroupNumber>
-      <FileNumber>165</FileNumber>
-      <FileType>1</FileType>
-      <tvExp>0</tvExp>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <bDave2>0</bDave2>
       <PathWithFileName>..\awtk\src\vgcanvas\vgcanvas_nanovg.c</PathWithFileName>
       <FilenameWithoutPath>vgcanvas_nanovg.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
@@ -2513,7 +2472,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>166</FileNumber>
+      <FileNumber>164</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2525,7 +2484,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>167</FileNumber>
+      <FileNumber>165</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2537,7 +2496,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>168</FileNumber>
+      <FileNumber>166</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2549,7 +2508,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>169</FileNumber>
+      <FileNumber>167</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2561,7 +2520,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>170</FileNumber>
+      <FileNumber>168</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2573,7 +2532,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>171</FileNumber>
+      <FileNumber>169</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2585,7 +2544,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>172</FileNumber>
+      <FileNumber>170</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2597,7 +2556,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>173</FileNumber>
+      <FileNumber>171</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2609,7 +2568,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>174</FileNumber>
+      <FileNumber>172</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2621,7 +2580,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>175</FileNumber>
+      <FileNumber>173</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2633,7 +2592,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>176</FileNumber>
+      <FileNumber>174</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2645,7 +2604,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>177</FileNumber>
+      <FileNumber>175</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2657,7 +2616,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>178</FileNumber>
+      <FileNumber>176</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2669,7 +2628,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>179</FileNumber>
+      <FileNumber>177</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2681,7 +2640,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>180</FileNumber>
+      <FileNumber>178</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2693,7 +2652,7 @@
     </File>
     <File>
       <GroupNumber>8</GroupNumber>
-      <FileNumber>181</FileNumber>
+      <FileNumber>179</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2713,7 +2672,7 @@
     <RteFlg>0</RteFlg>
     <File>
       <GroupNumber>9</GroupNumber>
-      <FileNumber>182</FileNumber>
+      <FileNumber>180</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2725,7 +2684,7 @@
     </File>
     <File>
       <GroupNumber>9</GroupNumber>
-      <FileNumber>183</FileNumber>
+      <FileNumber>181</FileNumber>
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
@@ -2735,11 +2694,35 @@
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
+    <File>
+      <GroupNumber>9</GroupNumber>
+      <FileNumber>182</FileNumber>
+      <FileType>1</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>..\awtk\src\platforms\raw\fs_os.c</PathWithFileName>
+      <FilenameWithoutPath>fs_os.c</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
+    <File>
+      <GroupNumber>9</GroupNumber>
+      <FileNumber>183</FileNumber>
+      <FileType>1</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>..\awtk\src\platforms\raw\mutex_null.c</PathWithFileName>
+      <FilenameWithoutPath>mutex_null.c</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
   </Group>
 
   <Group>
     <GroupName>AWTK-DEMOS</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2783,7 +2766,7 @@
 
   <Group>
     <GroupName>LIBUNIBREAK</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2899,7 +2882,7 @@
 
   <Group>
     <GroupName>NANOVG</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2919,7 +2902,7 @@
 
   <Group>
     <GroupName>AGGE</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>

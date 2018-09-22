@@ -1226,16 +1226,6 @@
               <FilePath>..\awtk\src\ui_loader\window_open.c</FilePath>
             </File>
             <File>
-              <FileName>fs_os.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\fs_os.c</FilePath>
-            </File>
-            <File>
-              <FileName>mutex_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\mutex_null.c</FilePath>
-            </File>
-            <File>
               <FileName>vgcanvas_nanovg.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg.c</FilePath>
@@ -1334,6 +1324,16 @@
               <FileName>platform.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk-port\platform.c</FilePath>
+            </File>
+            <File>
+              <FileName>fs_os.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\platforms\raw\fs_os.c</FilePath>
+            </File>
+            <File>
+              <FileName>mutex_null.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\platforms\raw\mutex_null.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2674,16 +2674,6 @@
               <FilePath>..\awtk\src\ui_loader\window_open.c</FilePath>
             </File>
             <File>
-              <FileName>fs_os.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\fs_os.c</FilePath>
-            </File>
-            <File>
-              <FileName>mutex_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\mutex_null.c</FilePath>
-            </File>
-            <File>
               <FileName>vgcanvas_nanovg.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg.c</FilePath>
@@ -2782,6 +2772,16 @@
               <FileName>platform.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk-port\platform.c</FilePath>
+            </File>
+            <File>
+              <FileName>fs_os.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\platforms\raw\fs_os.c</FilePath>
+            </File>
+            <File>
+              <FileName>mutex_null.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\platforms\raw\mutex_null.c</FilePath>
             </File>
           </Files>
         </Group>
