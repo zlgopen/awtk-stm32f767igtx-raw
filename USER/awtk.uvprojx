@@ -1310,6 +1310,16 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\soft_g2d.c</FilePath>
             </File>
+            <File>
+              <FileName>text_selector.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\text_selector\text_selector.c</FilePath>
+            </File>
+            <File>
+              <FileName>switch.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\switch\switch.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -2757,6 +2767,16 @@
               <FileName>soft_g2d.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\soft_g2d.c</FilePath>
+            </File>
+            <File>
+              <FileName>text_selector.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\text_selector\text_selector.c</FilePath>
+            </File>
+            <File>
+              <FileName>switch.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\switch\switch.c</FilePath>
             </File>
           </Files>
         </Group>
