@@ -1051,36 +1051,6 @@
               <FilePath>..\awtk\src\blend\stm32_g2d.c</FilePath>
             </File>
             <File>
-              <FileName>color_component.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\color_picker\color_component.c</FilePath>
-            </File>
-            <File>
-              <FileName>color_picker.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\color_picker\color_picker.c</FilePath>
-            </File>
-            <File>
-              <FileName>rgb_and_hsv.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\color_picker\rgb_and_hsv.c</FilePath>
-            </File>
-            <File>
-              <FileName>guage.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
-            </File>
-            <File>
-              <FileName>candidates.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\keyboard\candidates.c</FilePath>
-            </File>
-            <File>
-              <FileName>keyboard.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\keyboard\keyboard.c</FilePath>
-            </File>
-            <File>
               <FileName>input_method_creator.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\input_methods\input_method_creator.c</FilePath>
@@ -1250,56 +1220,6 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\soft_g2d.c</FilePath>
             </File>
-            <File>
-              <FileName>rich_text_parser.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_parser.c</FilePath>
-            </File>
-            <File>
-              <FileName>rich_text_render_node.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_render_node.c</FilePath>
-            </File>
-            <File>
-              <FileName>list_item.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\list_item.c</FilePath>
-            </File>
-            <File>
-              <FileName>list_view.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\list_view.c</FilePath>
-            </File>
-            <File>
-              <FileName>list_view_h.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\list_view_h.c</FilePath>
-            </File>
-            <File>
-              <FileName>scroll_bar.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\scroll_bar.c</FilePath>
-            </File>
-            <File>
-              <FileName>scroll_view.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\scroll_view.c</FilePath>
-            </File>
-            <File>
-              <FileName>slide_view.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\slide_view\slide_view.c</FilePath>
-            </File>
-            <File>
-              <FileName>time_clock.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\time_clock\time_clock.c</FilePath>
-            </File>
-            <File>
-              <FileName>ext_widgets.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\ext_widgets.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -1446,14 +1366,24 @@
           <GroupName>EXT_WIDGETS</GroupName>
           <Files>
             <File>
-              <FileName>rich_text_node.c</FileName>
+              <FileName>color_component.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_node.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\color_picker\color_component.c</FilePath>
             </File>
             <File>
-              <FileName>rich_text.c</FileName>
+              <FileName>color_picker.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\color_picker\color_picker.c</FilePath>
+            </File>
+            <File>
+              <FileName>rgb_and_hsv.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\color_picker\rgb_and_hsv.c</FilePath>
+            </File>
+            <File>
+              <FileName>guage.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
             </File>
             <File>
               <FileName>image_animation.c</FileName>
@@ -1461,14 +1391,24 @@
               <FilePath>..\awtk\src\ext_widgets\image_animation\image_animation.c</FilePath>
             </File>
             <File>
-              <FileName>text_selector.c</FileName>
+              <FileName>candidates.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\text_selector\text_selector.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\keyboard\candidates.c</FilePath>
             </File>
             <File>
-              <FileName>switch.c</FileName>
+              <FileName>keyboard.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\switch\switch.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\keyboard\keyboard.c</FilePath>
+            </File>
+            <File>
+              <FileName>rich_text.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text.c</FilePath>
+            </File>
+            <File>
+              <FileName>rich_text_node.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_node.c</FilePath>
             </File>
             <File>
               <FileName>rich_text_parser.c</FileName>
@@ -1509,6 +1449,16 @@
               <FileName>slide_view.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\slide_view\slide_view.c</FilePath>
+            </File>
+            <File>
+              <FileName>switch.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\switch\switch.c</FilePath>
+            </File>
+            <File>
+              <FileName>text_selector.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\text_selector\text_selector.c</FilePath>
             </File>
             <File>
               <FileName>time_clock.c</FileName>
@@ -2569,36 +2519,6 @@
               <FilePath>..\awtk\src\blend\stm32_g2d.c</FilePath>
             </File>
             <File>
-              <FileName>color_component.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\color_picker\color_component.c</FilePath>
-            </File>
-            <File>
-              <FileName>color_picker.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\color_picker\color_picker.c</FilePath>
-            </File>
-            <File>
-              <FileName>rgb_and_hsv.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\color_picker\rgb_and_hsv.c</FilePath>
-            </File>
-            <File>
-              <FileName>guage.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
-            </File>
-            <File>
-              <FileName>candidates.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\keyboard\candidates.c</FilePath>
-            </File>
-            <File>
-              <FileName>keyboard.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\keyboard\keyboard.c</FilePath>
-            </File>
-            <File>
               <FileName>input_method_creator.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\input_methods\input_method_creator.c</FilePath>
@@ -2768,56 +2688,6 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\soft_g2d.c</FilePath>
             </File>
-            <File>
-              <FileName>rich_text_parser.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_parser.c</FilePath>
-            </File>
-            <File>
-              <FileName>rich_text_render_node.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_render_node.c</FilePath>
-            </File>
-            <File>
-              <FileName>list_item.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\list_item.c</FilePath>
-            </File>
-            <File>
-              <FileName>list_view.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\list_view.c</FilePath>
-            </File>
-            <File>
-              <FileName>list_view_h.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\list_view_h.c</FilePath>
-            </File>
-            <File>
-              <FileName>scroll_bar.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\scroll_bar.c</FilePath>
-            </File>
-            <File>
-              <FileName>scroll_view.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\scroll_view\scroll_view.c</FilePath>
-            </File>
-            <File>
-              <FileName>slide_view.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\slide_view\slide_view.c</FilePath>
-            </File>
-            <File>
-              <FileName>time_clock.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\time_clock\time_clock.c</FilePath>
-            </File>
-            <File>
-              <FileName>ext_widgets.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\ext_widgets.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -2964,14 +2834,24 @@
           <GroupName>EXT_WIDGETS</GroupName>
           <Files>
             <File>
-              <FileName>rich_text_node.c</FileName>
+              <FileName>color_component.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_node.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\color_picker\color_component.c</FilePath>
             </File>
             <File>
-              <FileName>rich_text.c</FileName>
+              <FileName>color_picker.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\color_picker\color_picker.c</FilePath>
+            </File>
+            <File>
+              <FileName>rgb_and_hsv.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\color_picker\rgb_and_hsv.c</FilePath>
+            </File>
+            <File>
+              <FileName>guage.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
             </File>
             <File>
               <FileName>image_animation.c</FileName>
@@ -2979,14 +2859,24 @@
               <FilePath>..\awtk\src\ext_widgets\image_animation\image_animation.c</FilePath>
             </File>
             <File>
-              <FileName>text_selector.c</FileName>
+              <FileName>candidates.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\text_selector\text_selector.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\keyboard\candidates.c</FilePath>
             </File>
             <File>
-              <FileName>switch.c</FileName>
+              <FileName>keyboard.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\switch\switch.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\keyboard\keyboard.c</FilePath>
+            </File>
+            <File>
+              <FileName>rich_text.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text.c</FilePath>
+            </File>
+            <File>
+              <FileName>rich_text_node.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_node.c</FilePath>
             </File>
             <File>
               <FileName>rich_text_parser.c</FileName>
@@ -3027,6 +2917,16 @@
               <FileName>slide_view.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\slide_view\slide_view.c</FilePath>
+            </File>
+            <File>
+              <FileName>switch.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\switch\switch.c</FilePath>
+            </File>
+            <File>
+              <FileName>text_selector.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\text_selector\text_selector.c</FilePath>
             </File>
             <File>
               <FileName>time_clock.c</FileName>
