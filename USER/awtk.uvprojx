@@ -1360,6 +1360,26 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\func_call_parser.c</FilePath>
             </File>
+            <File>
+              <FileName>style.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style.c</FilePath>
+            </File>
+            <File>
+              <FileName>style_const.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style_const.c</FilePath>
+            </File>
+            <File>
+              <FileName>style_factory.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_factory_null.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -2962,6 +2982,26 @@
               <FileName>func_call_parser.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\func_call_parser.c</FilePath>
+            </File>
+            <File>
+              <FileName>style.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style.c</FilePath>
+            </File>
+            <File>
+              <FileName>style_const.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style_const.c</FilePath>
+            </File>
+            <File>
+              <FileName>style_factory.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_factory_null.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
             </File>
           </Files>
         </Group>
