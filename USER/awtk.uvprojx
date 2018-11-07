@@ -1376,9 +1376,14 @@
               <FilePath>..\awtk\src\base\style_factory.c</FilePath>
             </File>
             <File>
-              <FileName>widget_animator_factory_null.c</FileName>
+              <FileName>date_time.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+              <FilePath>..\awtk\src\base\date_time.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_manager.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\widget_animator_manager.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1624,6 +1629,11 @@
               <FileName>ext_widgets.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\ext_widgets.c</FilePath>
+            </File>
+            <File>
+              <FileName>digit_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\time_clock\digit_clock.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2999,9 +3009,14 @@
               <FilePath>..\awtk\src\base\style_factory.c</FilePath>
             </File>
             <File>
-              <FileName>widget_animator_factory_null.c</FileName>
+              <FileName>date_time.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+              <FilePath>..\awtk\src\base\date_time.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_manager.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\widget_animator_manager.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3247,6 +3262,11 @@
               <FileName>ext_widgets.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\ext_widgets.c</FilePath>
+            </File>
+            <File>
+              <FileName>digit_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\time_clock\digit_clock.c</FilePath>
             </File>
           </Files>
         </Group>

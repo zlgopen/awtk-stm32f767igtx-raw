@@ -83,4 +83,10 @@
  */
 #define WITH_VGCANVAS 1
 
+/**
+ * 如果启用竖屏，请定义本宏
+ *
+ */
+#define WITH_LCD_PORTRAIT 1
+
 #endif/*AWTK_CONFIG_H*/
