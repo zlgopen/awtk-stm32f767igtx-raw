@@ -951,11 +951,6 @@
               <FilePath>..\awtk\src\base\theme.c</FilePath>
             </File>
             <File>
-              <FileName>time.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\time.c</FilePath>
-            </File>
-            <File>
               <FileName>timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\timer.c</FilePath>
@@ -1124,11 +1119,6 @@
               <FileName>window_open.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ui_loader\window_open.c</FilePath>
-            </File>
-            <File>
-              <FileName>vgcanvas_nanovg.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg.c</FilePath>
             </File>
             <File>
               <FileName>widget_animator_move.c</FileName>
@@ -1385,6 +1375,16 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\widget_animator_manager.c</FilePath>
             </File>
+            <File>
+              <FileName>time_now.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\time_now.c</FilePath>
+            </File>
+            <File>
+              <FileName>vgcanvas_nanovg_soft.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg_soft.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -1634,6 +1634,11 @@
               <FileName>digit_clock.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\time_clock\digit_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>progress_circle.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\progress_circle\progress_circle.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2584,11 +2589,6 @@
               <FilePath>..\awtk\src\base\theme.c</FilePath>
             </File>
             <File>
-              <FileName>time.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\time.c</FilePath>
-            </File>
-            <File>
               <FileName>timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\timer.c</FilePath>
@@ -2757,11 +2757,6 @@
               <FileName>window_open.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ui_loader\window_open.c</FilePath>
-            </File>
-            <File>
-              <FileName>vgcanvas_nanovg.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg.c</FilePath>
             </File>
             <File>
               <FileName>widget_animator_move.c</FileName>
@@ -3018,6 +3013,16 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\widget_animator_manager.c</FilePath>
             </File>
+            <File>
+              <FileName>time_now.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\time_now.c</FilePath>
+            </File>
+            <File>
+              <FileName>vgcanvas_nanovg_soft.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg_soft.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3267,6 +3272,11 @@
               <FileName>digit_clock.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\time_clock\digit_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>progress_circle.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\progress_circle\progress_circle.c</FilePath>
             </File>
           </Files>
         </Group>
