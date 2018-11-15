@@ -1640,6 +1640,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\progress_circle\progress_circle.c</FilePath>
             </File>
+            <File>
+              <FileName>guage_pointer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
@@ -3277,6 +3282,11 @@
               <FileName>progress_circle.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\progress_circle\progress_circle.c</FilePath>
+            </File>
+            <File>
+              <FileName>guage_pointer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
             </File>
           </Files>
         </Group>
