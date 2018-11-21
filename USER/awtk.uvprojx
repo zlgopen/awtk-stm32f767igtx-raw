@@ -1385,6 +1385,46 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg_soft.c</FilePath>
             </File>
+            <File>
+              <FileName>bsvg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg_builder.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg_builder.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg_draw.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg_draw.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg_to_svg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg_to_svg.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_path.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_path.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_path_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_path_parser.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_shape.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_shape.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_to_bsvg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_to_bsvg.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3027,6 +3067,46 @@
               <FileName>vgcanvas_nanovg_soft.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\vgcanvas\vgcanvas_nanovg_soft.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg_builder.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg_builder.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg_draw.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg_draw.c</FilePath>
+            </File>
+            <File>
+              <FileName>bsvg_to_svg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\bsvg_to_svg.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_path.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_path.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_path_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_path_parser.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_shape.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_shape.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_to_bsvg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\svg\svg_to_bsvg.c</FilePath>
             </File>
           </Files>
         </Group>
