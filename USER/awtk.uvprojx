@@ -1435,6 +1435,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\clip_board.c</FilePath>
             </File>
+            <File>
+              <FileName>image_base.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\image_base.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3127,6 +3132,11 @@
               <FileName>clip_board.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\clip_board.c</FilePath>
+            </File>
+            <File>
+              <FileName>image_base.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\image_base.c</FilePath>
             </File>
           </Files>
         </Group>
