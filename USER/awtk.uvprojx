@@ -1425,6 +1425,16 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\svg\svg_to_bsvg.c</FilePath>
             </File>
+            <File>
+              <FileName>clip_board_default.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\clip_board\clip_board_default.c</FilePath>
+            </File>
+            <File>
+              <FileName>clip_board.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\clip_board.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3107,6 +3117,16 @@
               <FileName>svg_to_bsvg.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\svg\svg_to_bsvg.c</FilePath>
+            </File>
+            <File>
+              <FileName>clip_board_default.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\clip_board\clip_board_default.c</FilePath>
+            </File>
+            <File>
+              <FileName>clip_board.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\clip_board.c</FilePath>
             </File>
           </Files>
         </Group>
