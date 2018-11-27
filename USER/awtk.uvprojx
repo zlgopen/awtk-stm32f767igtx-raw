@@ -1440,6 +1440,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\image_base.c</FilePath>
             </File>
+            <File>
+              <FileName>grid_item.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\grid_item.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -1699,6 +1704,16 @@
               <FileName>guage_pointer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_image.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\svg_image\svg_image.c</FilePath>
+            </File>
+            <File>
+              <FileName>gif_image.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\gif_image\gif_image.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3138,6 +3153,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\image_base.c</FilePath>
             </File>
+            <File>
+              <FileName>grid_item.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\grid_item.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3397,6 +3417,16 @@
               <FileName>guage_pointer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
+            </File>
+            <File>
+              <FileName>svg_image.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\svg_image\svg_image.c</FilePath>
+            </File>
+            <File>
+              <FileName>gif_image.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\gif_image\gif_image.c</FilePath>
             </File>
           </Files>
         </Group>
