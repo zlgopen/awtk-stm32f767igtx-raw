@@ -1445,6 +1445,21 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\grid_item.c</FilePath>
             </File>
+            <File>
+              <FileName>input_device_status.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\input_device_status.c</FilePath>
+            </File>
+            <File>
+              <FileName>system_bar.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\system_bar.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_factory_null.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -1714,6 +1729,16 @@
               <FileName>gif_image.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\gif_image\gif_image.c</FilePath>
+            </File>
+            <File>
+              <FileName>canvas_widget.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\canvas_widget\canvas_widget.c</FilePath>
+            </File>
+            <File>
+              <FileName>image_value.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\image_value\image_value.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3158,6 +3183,21 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\grid_item.c</FilePath>
             </File>
+            <File>
+              <FileName>input_device_status.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\input_device_status.c</FilePath>
+            </File>
+            <File>
+              <FileName>system_bar.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\system_bar.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_factory_null.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3427,6 +3467,16 @@
               <FileName>gif_image.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\gif_image\gif_image.c</FilePath>
+            </File>
+            <File>
+              <FileName>canvas_widget.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\canvas_widget\canvas_widget.c</FilePath>
+            </File>
+            <File>
+              <FileName>image_value.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\image_value\image_value.c</FilePath>
             </File>
           </Files>
         </Group>
