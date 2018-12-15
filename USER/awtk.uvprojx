@@ -643,12 +643,12 @@
             <File>
               <FileName>app_bar.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\app_bar.c</FilePath>
+              <FilePath>..\awtk\src\widgets\app_bar.c</FilePath>
             </File>
             <File>
               <FileName>array.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\array.c</FilePath>
+              <FilePath>..\awtk\src\tkc\array.c</FilePath>
             </File>
             <File>
               <FileName>assets_manager.c</FileName>
@@ -663,17 +663,17 @@
             <File>
               <FileName>buffer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\buffer.c</FilePath>
+              <FilePath>..\awtk\src\tkc\buffer.c</FilePath>
             </File>
             <File>
               <FileName>button.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\button.c</FilePath>
+              <FilePath>..\awtk\src\widgets\button.c</FilePath>
             </File>
             <File>
               <FileName>button_group.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\button_group.c</FilePath>
+              <FilePath>..\awtk\src\widgets\button_group.c</FilePath>
             </File>
             <File>
               <FileName>canvas.c</FileName>
@@ -683,37 +683,37 @@
             <File>
               <FileName>check_button.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\check_button.c</FilePath>
+              <FilePath>..\awtk\src\widgets\check_button.c</FilePath>
             </File>
             <File>
               <FileName>color.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\color.c</FilePath>
+              <FilePath>..\awtk\src\tkc\color.c</FilePath>
             </File>
             <File>
               <FileName>color_parser.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\color_parser.c</FilePath>
+              <FilePath>..\awtk\src\tkc\color_parser.c</FilePath>
             </File>
             <File>
               <FileName>color_tile.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\color_tile.c</FilePath>
+              <FilePath>..\awtk\src\widgets\color_tile.c</FilePath>
             </File>
             <File>
               <FileName>column.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\column.c</FilePath>
+              <FilePath>..\awtk\src\widgets\column.c</FilePath>
             </File>
             <File>
               <FileName>combo_box.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\combo_box.c</FilePath>
+              <FilePath>..\awtk\src\widgets\combo_box.c</FilePath>
             </File>
             <File>
               <FileName>combo_box_item.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\combo_box_item.c</FilePath>
+              <FilePath>..\awtk\src\widgets\combo_box_item.c</FilePath>
             </File>
             <File>
               <FileName>custom_props.c</FileName>
@@ -723,37 +723,37 @@
             <File>
               <FileName>dialog.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dialog.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dialog.c</FilePath>
             </File>
             <File>
               <FileName>dialog_client.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dialog_client.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dialog_client.c</FilePath>
             </File>
             <File>
               <FileName>dialog_title.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dialog_title.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dialog_title.c</FilePath>
             </File>
             <File>
               <FileName>dragger.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dragger.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dragger.c</FilePath>
             </File>
             <File>
               <FileName>easing.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\easing.c</FilePath>
+              <FilePath>..\awtk\src\tkc\easing.c</FilePath>
             </File>
             <File>
               <FileName>edit.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\edit.c</FilePath>
+              <FilePath>..\awtk\src\widgets\edit.c</FilePath>
             </File>
             <File>
               <FileName>emitter.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\emitter.c</FilePath>
+              <FilePath>..\awtk\src\tkc\emitter.c</FilePath>
             </File>
             <File>
               <FileName>enums.c</FileName>
@@ -783,7 +783,7 @@
             <File>
               <FileName>fs.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\fs.c</FilePath>
+              <FilePath>..\awtk\src\tkc\fs.c</FilePath>
             </File>
             <File>
               <FileName>glyph_cache.c</FileName>
@@ -793,12 +793,12 @@
             <File>
               <FileName>grid.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\grid.c</FilePath>
+              <FilePath>..\awtk\src\widgets\grid.c</FilePath>
             </File>
             <File>
               <FileName>group_box.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\group_box.c</FilePath>
+              <FilePath>..\awtk\src\widgets\group_box.c</FilePath>
             </File>
             <File>
               <FileName>idle.c</FileName>
@@ -808,7 +808,7 @@
             <File>
               <FileName>image.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\image.c</FilePath>
+              <FilePath>..\awtk\src\widgets\image.c</FilePath>
             </File>
             <File>
               <FileName>image_loader.c</FileName>
@@ -833,7 +833,7 @@
             <File>
               <FileName>label.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\label.c</FilePath>
+              <FilePath>..\awtk\src\widgets\label.c</FilePath>
             </File>
             <File>
               <FileName>layout.c</FileName>
@@ -863,37 +863,37 @@
             <File>
               <FileName>matrix.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\matrix.c</FilePath>
+              <FilePath>..\awtk\src\tkc\matrix.c</FilePath>
             </File>
             <File>
               <FileName>mem.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\mem.c</FilePath>
+              <FilePath>..\awtk\src\tkc\mem.c</FilePath>
             </File>
             <File>
               <FileName>pages.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\pages.c</FilePath>
+              <FilePath>..\awtk\src\widgets\pages.c</FilePath>
             </File>
             <File>
               <FileName>path.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\path.c</FilePath>
+              <FilePath>..\awtk\src\tkc\path.c</FilePath>
             </File>
             <File>
               <FileName>popup.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\popup.c</FilePath>
+              <FilePath>..\awtk\src\widgets\popup.c</FilePath>
             </File>
             <File>
               <FileName>progress_bar.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\progress_bar.c</FilePath>
+              <FilePath>..\awtk\src\widgets\progress_bar.c</FilePath>
             </File>
             <File>
               <FileName>rect.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\rect.c</FilePath>
+              <FilePath>..\awtk\src\tkc\rect.c</FilePath>
             </File>
             <File>
               <FileName>rom_fs.c</FileName>
@@ -903,22 +903,22 @@
             <File>
               <FileName>row.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\row.c</FilePath>
+              <FilePath>..\awtk\src\widgets\row.c</FilePath>
             </File>
             <File>
               <FileName>slider.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\slider.c</FilePath>
+              <FilePath>..\awtk\src\widgets\slider.c</FilePath>
             </File>
             <File>
               <FileName>spin_box.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\spin_box.c</FilePath>
+              <FilePath>..\awtk\src\widgets\spin_box.c</FilePath>
             </File>
             <File>
               <FileName>str.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\str.c</FilePath>
+              <FilePath>..\awtk\src\tkc\str.c</FilePath>
             </File>
             <File>
               <FileName>suggest_words.c</FileName>
@@ -933,17 +933,17 @@
             <File>
               <FileName>tab_button.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tab_button.c</FilePath>
+              <FilePath>..\awtk\src\widgets\tab_button.c</FilePath>
             </File>
             <File>
               <FileName>tab_button_group.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tab_button_group.c</FilePath>
+              <FilePath>..\awtk\src\widgets\tab_button_group.c</FilePath>
             </File>
             <File>
               <FileName>tab_control.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tab_control.c</FilePath>
+              <FilePath>..\awtk\src\widgets\tab_control.c</FilePath>
             </File>
             <File>
               <FileName>theme.c</FileName>
@@ -958,7 +958,7 @@
             <File>
               <FileName>tokenizer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tokenizer.c</FilePath>
+              <FilePath>..\awtk\src\tkc\tokenizer.c</FilePath>
             </File>
             <File>
               <FileName>ui_builder.c</FileName>
@@ -968,17 +968,17 @@
             <File>
               <FileName>utf8.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\utf8.c</FilePath>
+              <FilePath>..\awtk\src\tkc\utf8.c</FilePath>
             </File>
             <File>
               <FileName>utils.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\utils.c</FilePath>
+              <FilePath>..\awtk\src\tkc\utils.c</FilePath>
             </File>
             <File>
               <FileName>value.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\value.c</FilePath>
+              <FilePath>..\awtk\src\tkc\value.c</FilePath>
             </File>
             <File>
               <FileName>velocity.c</FileName>
@@ -993,7 +993,7 @@
             <File>
               <FileName>view.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\view.c</FilePath>
+              <FilePath>..\awtk\src\widgets\view.c</FilePath>
             </File>
             <File>
               <FileName>widget.c</FileName>
@@ -1018,7 +1018,7 @@
             <File>
               <FileName>window.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\window.c</FilePath>
+              <FilePath>..\awtk\src\widgets\window.c</FilePath>
             </File>
             <File>
               <FileName>window_animator.c</FileName>
@@ -1033,7 +1033,7 @@
             <File>
               <FileName>wstr.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\wstr.c</FilePath>
+              <FilePath>..\awtk\src\tkc\wstr.c</FilePath>
             </File>
             <File>
               <FileName>image_g2d.c</FileName>
@@ -1121,34 +1121,9 @@
               <FilePath>..\awtk\src\ui_loader\window_open.c</FilePath>
             </File>
             <File>
-              <FileName>widget_animator_move.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_move.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_opacity.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_opacity.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_rotation.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_rotation.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_scale.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_scale.c</FilePath>
-            </File>
-            <File>
               <FileName>widget_animator_scroll.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widget_animators\widget_animator_scroll.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_value.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_value.c</FilePath>
             </File>
             <File>
               <FileName>window_animator_fb.c</FileName>
@@ -1166,9 +1141,9 @@
               <FilePath>..\awtk\src\xml\xml_parser.c</FilePath>
             </File>
             <File>
-              <FileName>awtk.c</FileName>
+              <FileName>awtk_global.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\awtk.c</FilePath>
+              <FilePath>..\awtk\src\awtk_global.c</FilePath>
             </File>
             <File>
               <FileName>input_engine_null.c</FileName>
@@ -1318,7 +1293,7 @@
             <File>
               <FileName>calibration_win.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\calibration_win.c</FilePath>
+              <FilePath>..\awtk\src\widgets\calibration_win.c</FilePath>
             </File>
             <File>
               <FileName>font_loader_bitmap.c</FileName>
@@ -1348,7 +1323,7 @@
             <File>
               <FileName>func_call_parser.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\func_call_parser.c</FilePath>
+              <FilePath>..\awtk\src\tkc\func_call_parser.c</FilePath>
             </File>
             <File>
               <FileName>style.c</FileName>
@@ -1368,7 +1343,7 @@
             <File>
               <FileName>date_time.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\date_time.c</FilePath>
+              <FilePath>..\awtk\src\tkc\date_time.c</FilePath>
             </File>
             <File>
               <FileName>widget_animator_manager.c</FileName>
@@ -1378,7 +1353,7 @@
             <File>
               <FileName>time_now.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\time_now.c</FilePath>
+              <FilePath>..\awtk\src\tkc\time_now.c</FilePath>
             </File>
             <File>
               <FileName>vgcanvas_nanovg_soft.c</FileName>
@@ -1443,7 +1418,7 @@
             <File>
               <FileName>grid_item.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\grid_item.c</FilePath>
+              <FilePath>..\awtk\src\widgets\grid_item.c</FilePath>
             </File>
             <File>
               <FileName>input_device_status.c</FileName>
@@ -1453,12 +1428,22 @@
             <File>
               <FileName>system_bar.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\system_bar.c</FilePath>
+              <FilePath>..\awtk\src\widgets\system_bar.c</FilePath>
             </File>
             <File>
               <FileName>widget_animator_factory_null.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_prop.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widget_animators\widget_animator_prop.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_prop2.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widget_animators\widget_animator_prop2.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1739,6 +1724,11 @@
               <FileName>image_value.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\image_value\image_value.c</FilePath>
+            </File>
+            <File>
+              <FileName>slide_menu.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\slide_menu\slide_menu.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2381,12 +2371,12 @@
             <File>
               <FileName>app_bar.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\app_bar.c</FilePath>
+              <FilePath>..\awtk\src\widgets\app_bar.c</FilePath>
             </File>
             <File>
               <FileName>array.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\array.c</FilePath>
+              <FilePath>..\awtk\src\tkc\array.c</FilePath>
             </File>
             <File>
               <FileName>assets_manager.c</FileName>
@@ -2401,17 +2391,17 @@
             <File>
               <FileName>buffer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\buffer.c</FilePath>
+              <FilePath>..\awtk\src\tkc\buffer.c</FilePath>
             </File>
             <File>
               <FileName>button.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\button.c</FilePath>
+              <FilePath>..\awtk\src\widgets\button.c</FilePath>
             </File>
             <File>
               <FileName>button_group.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\button_group.c</FilePath>
+              <FilePath>..\awtk\src\widgets\button_group.c</FilePath>
             </File>
             <File>
               <FileName>canvas.c</FileName>
@@ -2421,37 +2411,37 @@
             <File>
               <FileName>check_button.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\check_button.c</FilePath>
+              <FilePath>..\awtk\src\widgets\check_button.c</FilePath>
             </File>
             <File>
               <FileName>color.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\color.c</FilePath>
+              <FilePath>..\awtk\src\tkc\color.c</FilePath>
             </File>
             <File>
               <FileName>color_parser.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\color_parser.c</FilePath>
+              <FilePath>..\awtk\src\tkc\color_parser.c</FilePath>
             </File>
             <File>
               <FileName>color_tile.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\color_tile.c</FilePath>
+              <FilePath>..\awtk\src\widgets\color_tile.c</FilePath>
             </File>
             <File>
               <FileName>column.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\column.c</FilePath>
+              <FilePath>..\awtk\src\widgets\column.c</FilePath>
             </File>
             <File>
               <FileName>combo_box.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\combo_box.c</FilePath>
+              <FilePath>..\awtk\src\widgets\combo_box.c</FilePath>
             </File>
             <File>
               <FileName>combo_box_item.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\combo_box_item.c</FilePath>
+              <FilePath>..\awtk\src\widgets\combo_box_item.c</FilePath>
             </File>
             <File>
               <FileName>custom_props.c</FileName>
@@ -2461,37 +2451,37 @@
             <File>
               <FileName>dialog.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dialog.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dialog.c</FilePath>
             </File>
             <File>
               <FileName>dialog_client.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dialog_client.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dialog_client.c</FilePath>
             </File>
             <File>
               <FileName>dialog_title.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dialog_title.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dialog_title.c</FilePath>
             </File>
             <File>
               <FileName>dragger.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\dragger.c</FilePath>
+              <FilePath>..\awtk\src\widgets\dragger.c</FilePath>
             </File>
             <File>
               <FileName>easing.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\easing.c</FilePath>
+              <FilePath>..\awtk\src\tkc\easing.c</FilePath>
             </File>
             <File>
               <FileName>edit.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\edit.c</FilePath>
+              <FilePath>..\awtk\src\widgets\edit.c</FilePath>
             </File>
             <File>
               <FileName>emitter.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\emitter.c</FilePath>
+              <FilePath>..\awtk\src\tkc\emitter.c</FilePath>
             </File>
             <File>
               <FileName>enums.c</FileName>
@@ -2521,7 +2511,7 @@
             <File>
               <FileName>fs.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\fs.c</FilePath>
+              <FilePath>..\awtk\src\tkc\fs.c</FilePath>
             </File>
             <File>
               <FileName>glyph_cache.c</FileName>
@@ -2531,12 +2521,12 @@
             <File>
               <FileName>grid.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\grid.c</FilePath>
+              <FilePath>..\awtk\src\widgets\grid.c</FilePath>
             </File>
             <File>
               <FileName>group_box.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\group_box.c</FilePath>
+              <FilePath>..\awtk\src\widgets\group_box.c</FilePath>
             </File>
             <File>
               <FileName>idle.c</FileName>
@@ -2546,7 +2536,7 @@
             <File>
               <FileName>image.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\image.c</FilePath>
+              <FilePath>..\awtk\src\widgets\image.c</FilePath>
             </File>
             <File>
               <FileName>image_loader.c</FileName>
@@ -2571,7 +2561,7 @@
             <File>
               <FileName>label.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\label.c</FilePath>
+              <FilePath>..\awtk\src\widgets\label.c</FilePath>
             </File>
             <File>
               <FileName>layout.c</FileName>
@@ -2601,37 +2591,37 @@
             <File>
               <FileName>matrix.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\matrix.c</FilePath>
+              <FilePath>..\awtk\src\tkc\matrix.c</FilePath>
             </File>
             <File>
               <FileName>mem.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\mem.c</FilePath>
+              <FilePath>..\awtk\src\tkc\mem.c</FilePath>
             </File>
             <File>
               <FileName>pages.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\pages.c</FilePath>
+              <FilePath>..\awtk\src\widgets\pages.c</FilePath>
             </File>
             <File>
               <FileName>path.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\path.c</FilePath>
+              <FilePath>..\awtk\src\tkc\path.c</FilePath>
             </File>
             <File>
               <FileName>popup.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\popup.c</FilePath>
+              <FilePath>..\awtk\src\widgets\popup.c</FilePath>
             </File>
             <File>
               <FileName>progress_bar.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\progress_bar.c</FilePath>
+              <FilePath>..\awtk\src\widgets\progress_bar.c</FilePath>
             </File>
             <File>
               <FileName>rect.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\rect.c</FilePath>
+              <FilePath>..\awtk\src\tkc\rect.c</FilePath>
             </File>
             <File>
               <FileName>rom_fs.c</FileName>
@@ -2641,22 +2631,22 @@
             <File>
               <FileName>row.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\row.c</FilePath>
+              <FilePath>..\awtk\src\widgets\row.c</FilePath>
             </File>
             <File>
               <FileName>slider.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\slider.c</FilePath>
+              <FilePath>..\awtk\src\widgets\slider.c</FilePath>
             </File>
             <File>
               <FileName>spin_box.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\spin_box.c</FilePath>
+              <FilePath>..\awtk\src\widgets\spin_box.c</FilePath>
             </File>
             <File>
               <FileName>str.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\str.c</FilePath>
+              <FilePath>..\awtk\src\tkc\str.c</FilePath>
             </File>
             <File>
               <FileName>suggest_words.c</FileName>
@@ -2671,17 +2661,17 @@
             <File>
               <FileName>tab_button.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tab_button.c</FilePath>
+              <FilePath>..\awtk\src\widgets\tab_button.c</FilePath>
             </File>
             <File>
               <FileName>tab_button_group.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tab_button_group.c</FilePath>
+              <FilePath>..\awtk\src\widgets\tab_button_group.c</FilePath>
             </File>
             <File>
               <FileName>tab_control.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tab_control.c</FilePath>
+              <FilePath>..\awtk\src\widgets\tab_control.c</FilePath>
             </File>
             <File>
               <FileName>theme.c</FileName>
@@ -2696,7 +2686,7 @@
             <File>
               <FileName>tokenizer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\tokenizer.c</FilePath>
+              <FilePath>..\awtk\src\tkc\tokenizer.c</FilePath>
             </File>
             <File>
               <FileName>ui_builder.c</FileName>
@@ -2706,17 +2696,17 @@
             <File>
               <FileName>utf8.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\utf8.c</FilePath>
+              <FilePath>..\awtk\src\tkc\utf8.c</FilePath>
             </File>
             <File>
               <FileName>utils.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\utils.c</FilePath>
+              <FilePath>..\awtk\src\tkc\utils.c</FilePath>
             </File>
             <File>
               <FileName>value.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\value.c</FilePath>
+              <FilePath>..\awtk\src\tkc\value.c</FilePath>
             </File>
             <File>
               <FileName>velocity.c</FileName>
@@ -2731,7 +2721,7 @@
             <File>
               <FileName>view.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\view.c</FilePath>
+              <FilePath>..\awtk\src\widgets\view.c</FilePath>
             </File>
             <File>
               <FileName>widget.c</FileName>
@@ -2756,7 +2746,7 @@
             <File>
               <FileName>window.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\window.c</FilePath>
+              <FilePath>..\awtk\src\widgets\window.c</FilePath>
             </File>
             <File>
               <FileName>window_animator.c</FileName>
@@ -2771,7 +2761,7 @@
             <File>
               <FileName>wstr.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\wstr.c</FilePath>
+              <FilePath>..\awtk\src\tkc\wstr.c</FilePath>
             </File>
             <File>
               <FileName>image_g2d.c</FileName>
@@ -2859,34 +2849,9 @@
               <FilePath>..\awtk\src\ui_loader\window_open.c</FilePath>
             </File>
             <File>
-              <FileName>widget_animator_move.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_move.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_opacity.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_opacity.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_rotation.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_rotation.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_scale.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_scale.c</FilePath>
-            </File>
-            <File>
               <FileName>widget_animator_scroll.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widget_animators\widget_animator_scroll.c</FilePath>
-            </File>
-            <File>
-              <FileName>widget_animator_value.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\widget_animators\widget_animator_value.c</FilePath>
             </File>
             <File>
               <FileName>window_animator_fb.c</FileName>
@@ -2904,9 +2869,9 @@
               <FilePath>..\awtk\src\xml\xml_parser.c</FilePath>
             </File>
             <File>
-              <FileName>awtk.c</FileName>
+              <FileName>awtk_global.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\awtk.c</FilePath>
+              <FilePath>..\awtk\src\awtk_global.c</FilePath>
             </File>
             <File>
               <FileName>input_engine_null.c</FileName>
@@ -3056,7 +3021,7 @@
             <File>
               <FileName>calibration_win.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\calibration_win.c</FilePath>
+              <FilePath>..\awtk\src\widgets\calibration_win.c</FilePath>
             </File>
             <File>
               <FileName>font_loader_bitmap.c</FileName>
@@ -3086,7 +3051,7 @@
             <File>
               <FileName>func_call_parser.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\func_call_parser.c</FilePath>
+              <FilePath>..\awtk\src\tkc\func_call_parser.c</FilePath>
             </File>
             <File>
               <FileName>style.c</FileName>
@@ -3106,7 +3071,7 @@
             <File>
               <FileName>date_time.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\date_time.c</FilePath>
+              <FilePath>..\awtk\src\tkc\date_time.c</FilePath>
             </File>
             <File>
               <FileName>widget_animator_manager.c</FileName>
@@ -3116,7 +3081,7 @@
             <File>
               <FileName>time_now.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\time_now.c</FilePath>
+              <FilePath>..\awtk\src\tkc\time_now.c</FilePath>
             </File>
             <File>
               <FileName>vgcanvas_nanovg_soft.c</FileName>
@@ -3181,7 +3146,7 @@
             <File>
               <FileName>grid_item.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\grid_item.c</FilePath>
+              <FilePath>..\awtk\src\widgets\grid_item.c</FilePath>
             </File>
             <File>
               <FileName>input_device_status.c</FileName>
@@ -3191,12 +3156,22 @@
             <File>
               <FileName>system_bar.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\system_bar.c</FilePath>
+              <FilePath>..\awtk\src\widgets\system_bar.c</FilePath>
             </File>
             <File>
               <FileName>widget_animator_factory_null.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\widget_animator_factory_null.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_prop.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widget_animators\widget_animator_prop.c</FilePath>
+            </File>
+            <File>
+              <FileName>widget_animator_prop2.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widget_animators\widget_animator_prop2.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3477,6 +3452,11 @@
               <FileName>image_value.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\image_value\image_value.c</FilePath>
+            </File>
+            <File>
+              <FileName>slide_menu.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\slide_menu\slide_menu.c</FilePath>
             </File>
           </Files>
         </Group>
