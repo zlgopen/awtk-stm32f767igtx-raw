@@ -1093,7 +1093,7 @@
             <File>
               <FileName>ui_loader.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ui_loader\ui_loader.c</FilePath>
+              <FilePath>..\awtk\src\base\ui_loader.c</FilePath>
             </File>
             <File>
               <FileName>ui_loader_default.c</FileName>
@@ -1474,6 +1474,11 @@
               <FileName>self_layouter.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\self_layouter.c</FilePath>
+            </File>
+            <File>
+              <FileName>event.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\event.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2851,7 +2856,7 @@
             <File>
               <FileName>ui_loader.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ui_loader\ui_loader.c</FilePath>
+              <FilePath>..\awtk\src\base\ui_loader.c</FilePath>
             </File>
             <File>
               <FileName>ui_loader_default.c</FileName>
@@ -3232,6 +3237,11 @@
               <FileName>self_layouter.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\self_layouter.c</FilePath>
+            </File>
+            <File>
+              <FileName>event.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\event.c</FilePath>
             </File>
           </Files>
         </Group>
