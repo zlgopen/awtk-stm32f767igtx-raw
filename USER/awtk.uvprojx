@@ -646,11 +646,6 @@
               <FilePath>..\awtk\src\widgets\app_bar.c</FilePath>
             </File>
             <File>
-              <FileName>array.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\tkc\array.c</FilePath>
-            </File>
-            <File>
               <FileName>assets_manager.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\assets_manager.c</FilePath>
@@ -2457,11 +2452,6 @@
               <FileName>app_bar.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\app_bar.c</FilePath>
-            </File>
-            <File>
-              <FileName>array.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\tkc\array.c</FilePath>
             </File>
             <File>
               <FileName>assets_manager.c</FileName>
