@@ -711,11 +711,6 @@
               <FilePath>..\awtk\src\widgets\combo_box_item.c</FilePath>
             </File>
             <File>
-              <FileName>custom_props.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\custom_props.c</FilePath>
-            </File>
-            <File>
               <FileName>dialog.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\dialog.c</FilePath>
@@ -1524,6 +1519,11 @@
               <FileName>darray.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\tkc\darray.c</FilePath>
+            </File>
+            <File>
+              <FileName>expr_eval.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\expr_eval.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2519,11 +2519,6 @@
               <FilePath>..\awtk\src\widgets\combo_box_item.c</FilePath>
             </File>
             <File>
-              <FileName>custom_props.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\custom_props.c</FilePath>
-            </File>
-            <File>
               <FileName>dialog.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\dialog.c</FilePath>
@@ -3332,6 +3327,11 @@
               <FileName>darray.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\tkc\darray.c</FilePath>
+            </File>
+            <File>
+              <FileName>expr_eval.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\expr_eval.c</FilePath>
             </File>
           </Files>
         </Group>
