@@ -89,4 +89,6 @@
  */
 //#define WITH_LCD_PORTRAIT 1
 
+#define TK_DEFAULT_FONT  "default_mini"
+
 #endif/*AWTK_CONFIG_H*/
