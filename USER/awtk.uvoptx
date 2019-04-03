@@ -159,7 +159,7 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\ext_widgets\guage\guage_pointer.c</Filename>
+          <Filename>\\vmware-host\Shared Folders\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\ext_widgets\guage\guage_pointer.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\awtk\../awtk/src/ext_widgets/guage/guage_pointer.c\157</Expression>
         </Bp>
@@ -175,7 +175,7 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\awtk_global.c</Filename>
+          <Filename>\\vmware-host\Shared Folders\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\awtk_global.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\awtk\../awtk/src/awtk_global.c\144</Expression>
         </Bp>
@@ -191,7 +191,7 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\awtk_global.c</Filename>
+          <Filename>\\vmware-host\Shared Folders\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\awtk_global.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\awtk\../awtk/src/awtk_global.c\143</Expression>
         </Bp>
@@ -207,7 +207,7 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\base\system_info.c</Filename>
+          <Filename>\\vmware-host\Shared Folders\vmware-host\Shared Folders\Share\lab\gui\awtk\awtk-stm32f767igtx-raw\awtk\src\base\system_info.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\awtk\../awtk/src/base/system_info.c\112</Expression>
         </Bp>
