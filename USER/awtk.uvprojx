@@ -1620,6 +1620,16 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\window_animator_factory.c</FilePath>
             </File>
+            <File>
+              <FileName>fill_image_abgr8888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\fill_image_abgr8888.c</FilePath>
+            </File>
+            <File>
+              <FileName>fill_image_argb8888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\fill_image_argb8888.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3522,6 +3532,16 @@
               <FileName>window_animator_factory.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\window_animator_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>fill_image_abgr8888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\fill_image_abgr8888.c</FilePath>
+            </File>
+            <File>
+              <FileName>fill_image_argb8888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\fill_image_argb8888.c</FilePath>
             </File>
           </Files>
         </Group>
