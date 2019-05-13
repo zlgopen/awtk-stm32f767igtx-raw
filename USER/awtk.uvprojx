@@ -1436,19 +1436,9 @@
               <FilePath>..\awtk\src\layouters\children_layouter_default.c</FilePath>
             </File>
             <File>
-              <FileName>children_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\children_layouter_factory.c</FilePath>
-            </File>
-            <File>
               <FileName>self_layouter_default.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\layouters\self_layouter_default.c</FilePath>
-            </File>
-            <File>
-              <FileName>self_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\self_layouter_factory.c</FilePath>
             </File>
             <File>
               <FileName>children_layouter.c</FileName>
@@ -1629,6 +1619,26 @@
               <FileName>fill_image_argb8888.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\fill_image_argb8888.c</FilePath>
+            </File>
+            <File>
+              <FileName>children_layouter_builtins.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\children_layouter_builtins.c</FilePath>
+            </File>
+            <File>
+              <FileName>children_layouter_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\children_layouter_parser.c</FilePath>
+            </File>
+            <File>
+              <FileName>self_layouter_builtins.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\self_layouter_builtins.c</FilePath>
+            </File>
+            <File>
+              <FileName>self_layouter_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\self_layouter_parser.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3349,19 +3359,9 @@
               <FilePath>..\awtk\src\layouters\children_layouter_default.c</FilePath>
             </File>
             <File>
-              <FileName>children_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\children_layouter_factory.c</FilePath>
-            </File>
-            <File>
               <FileName>self_layouter_default.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\layouters\self_layouter_default.c</FilePath>
-            </File>
-            <File>
-              <FileName>self_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\self_layouter_factory.c</FilePath>
             </File>
             <File>
               <FileName>children_layouter.c</FileName>
@@ -3542,6 +3542,26 @@
               <FileName>fill_image_argb8888.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\fill_image_argb8888.c</FilePath>
+            </File>
+            <File>
+              <FileName>children_layouter_builtins.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\children_layouter_builtins.c</FilePath>
+            </File>
+            <File>
+              <FileName>children_layouter_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\children_layouter_parser.c</FilePath>
+            </File>
+            <File>
+              <FileName>self_layouter_builtins.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\self_layouter_builtins.c</FilePath>
+            </File>
+            <File>
+              <FileName>self_layouter_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\layouters\self_layouter_parser.c</FilePath>
             </File>
           </Files>
         </Group>
