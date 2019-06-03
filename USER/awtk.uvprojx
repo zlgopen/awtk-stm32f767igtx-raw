@@ -16,7 +16,7 @@
         <TargetCommonOption>
           <Device>STM32F767IGTx</Device>
           <Vendor>STMicroelectronics</Vendor>
-          <PackID>Keil.STM32F7xx_DFP.2.11.0</PackID>
+          <PackID>Keil.STM32F7xx_DFP.2.10.0</PackID>
           <PackURL>http://www.keil.com/pack</PackURL>
           <Cpu>IRAM(0x20020000,0x60000) IRAM2(0x20000000,0x20000) IROM(0x08000000,0x100000) IROM2(0x00200000,0x100000) CPUTYPE("Cortex-M7") FPU3(DFPU) CLOCK(12000000) ELITTLE</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
@@ -1436,19 +1436,9 @@
               <FilePath>..\awtk\src\layouters\children_layouter_default.c</FilePath>
             </File>
             <File>
-              <FileName>children_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\children_layouter_factory.c</FilePath>
-            </File>
-            <File>
               <FileName>self_layouter_default.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\layouters\self_layouter_default.c</FilePath>
-            </File>
-            <File>
-              <FileName>self_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\self_layouter_factory.c</FilePath>
             </File>
             <File>
               <FileName>children_layouter.c</FileName>
@@ -1629,6 +1619,41 @@
               <FileName>fill_image_argb8888.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\fill_image_argb8888.c</FilePath>
+            </File>
+            <File>
+              <FileName>children_layouter_factory.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\children_layouter_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>hscrollable.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\hscrollable.c</FilePath>
+            </File>
+            <File>
+              <FileName>self_layouter_factory.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\self_layouter_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>shortcut.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\shortcut.c</FilePath>
+            </File>
+            <File>
+              <FileName>style_mutable.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style_mutable.c</FilePath>
+            </File>
+            <File>
+              <FileName>int_str.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\int_str.c</FilePath>
+            </File>
+            <File>
+              <FileName>str_str.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\str_str.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1929,7 +1954,7 @@
         <TargetCommonOption>
           <Device>STM32F767IGTx</Device>
           <Vendor>STMicroelectronics</Vendor>
-          <PackID>Keil.STM32F7xx_DFP.2.11.0</PackID>
+          <PackID>Keil.STM32F7xx_DFP.2.10.0</PackID>
           <PackURL>http://www.keil.com/pack</PackURL>
           <Cpu>IRAM(0x20020000,0x60000) IRAM2(0x20000000,0x20000) IROM(0x08000000,0x100000) IROM2(0x00200000,0x100000) CPUTYPE("Cortex-M7") FPU3(DFPU) CLOCK(12000000) ELITTLE</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
@@ -3349,19 +3374,9 @@
               <FilePath>..\awtk\src\layouters\children_layouter_default.c</FilePath>
             </File>
             <File>
-              <FileName>children_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\children_layouter_factory.c</FilePath>
-            </File>
-            <File>
               <FileName>self_layouter_default.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\layouters\self_layouter_default.c</FilePath>
-            </File>
-            <File>
-              <FileName>self_layouter_factory.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\layouters\self_layouter_factory.c</FilePath>
             </File>
             <File>
               <FileName>children_layouter.c</FileName>
@@ -3542,6 +3557,41 @@
               <FileName>fill_image_argb8888.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\blend\fill_image_argb8888.c</FilePath>
+            </File>
+            <File>
+              <FileName>children_layouter_factory.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\children_layouter_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>hscrollable.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\hscrollable.c</FilePath>
+            </File>
+            <File>
+              <FileName>self_layouter_factory.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\self_layouter_factory.c</FilePath>
+            </File>
+            <File>
+              <FileName>shortcut.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\shortcut.c</FilePath>
+            </File>
+            <File>
+              <FileName>style_mutable.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\style_mutable.c</FilePath>
+            </File>
+            <File>
+              <FileName>int_str.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\int_str.c</FilePath>
+            </File>
+            <File>
+              <FileName>str_str.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\tkc\str_str.c</FilePath>
             </File>
           </Files>
         </Group>
