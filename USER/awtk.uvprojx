@@ -1680,6 +1680,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\overlay.c</FilePath>
             </File>
+            <File>
+              <FileName>text_edit.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\text_edit.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -1974,6 +1979,11 @@
               <FileName>children_layouter_list_view.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\scroll_view\children_layouter_list_view.c</FilePath>
+            </File>
+            <File>
+              <FileName>mledit.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\mledit\mledit.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3653,6 +3663,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\overlay.c</FilePath>
             </File>
+            <File>
+              <FileName>text_edit.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\text_edit.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3947,6 +3962,11 @@
               <FileName>children_layouter_list_view.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\scroll_view\children_layouter_list_view.c</FilePath>
+            </File>
+            <File>
+              <FileName>mledit.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\mledit\mledit.c</FilePath>
             </File>
           </Files>
         </Group>
