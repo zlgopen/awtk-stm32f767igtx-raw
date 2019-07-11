@@ -1995,6 +1995,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\mledit\line_number.c</FilePath>
             </File>
+            <File>
+              <FileName>hscroll_label.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\scroll_label\hscroll_label.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
@@ -3987,6 +3992,11 @@
               <FileName>line_number.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\mledit\line_number.c</FilePath>
+            </File>
+            <File>
+              <FileName>hscroll_label.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\scroll_label\hscroll_label.c</FilePath>
             </File>
           </Files>
         </Group>
