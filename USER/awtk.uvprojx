@@ -713,7 +713,7 @@
             <File>
               <FileName>dialog.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\widgets\dialog.c</FilePath>
+              <FilePath>..\awtk\src\base\dialog.c</FilePath>
             </File>
             <File>
               <FileName>dialog_client.c</FileName>
@@ -888,7 +888,7 @@
             <File>
               <FileName>rom_fs.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\rom_fs.c</FilePath>
+              <FilePath>..\awtk\src\tkc\rom_fs.c</FilePath>
             </File>
             <File>
               <FileName>row.c</FileName>
@@ -1008,7 +1008,7 @@
             <File>
               <FileName>window.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\widgets\window.c</FilePath>
+              <FilePath>..\awtk\src\base\window.c</FilePath>
             </File>
             <File>
               <FileName>window_animator.c</FileName>
@@ -1496,11 +1496,6 @@
               <FilePath>..\awtk\src\tkc\named_value.c</FilePath>
             </File>
             <File>
-              <FileName>widget_pool.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\widget_pool.c</FilePath>
-            </File>
-            <File>
               <FileName>darray.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\tkc\darray.c</FilePath>
@@ -1709,6 +1704,11 @@
               <FileName>dialog_helper.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\dialog_helper.c</FilePath>
+            </File>
+            <File>
+              <FileName>widgets.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widgets\widgets.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2731,7 +2731,7 @@
             <File>
               <FileName>dialog.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\widgets\dialog.c</FilePath>
+              <FilePath>..\awtk\src\base\dialog.c</FilePath>
             </File>
             <File>
               <FileName>dialog_client.c</FileName>
@@ -2906,7 +2906,7 @@
             <File>
               <FileName>rom_fs.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\rom_fs.c</FilePath>
+              <FilePath>..\awtk\src\tkc\rom_fs.c</FilePath>
             </File>
             <File>
               <FileName>row.c</FileName>
@@ -3026,7 +3026,7 @@
             <File>
               <FileName>window.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\widgets\window.c</FilePath>
+              <FilePath>..\awtk\src\base\window.c</FilePath>
             </File>
             <File>
               <FileName>window_animator.c</FileName>
@@ -3514,11 +3514,6 @@
               <FilePath>..\awtk\src\tkc\named_value.c</FilePath>
             </File>
             <File>
-              <FileName>widget_pool.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\base\widget_pool.c</FilePath>
-            </File>
-            <File>
               <FileName>darray.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\tkc\darray.c</FilePath>
@@ -3727,6 +3722,11 @@
               <FileName>dialog_helper.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\dialog_helper.c</FilePath>
+            </File>
+            <File>
+              <FileName>widgets.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widgets\widgets.c</FilePath>
             </File>
           </Files>
         </Group>
