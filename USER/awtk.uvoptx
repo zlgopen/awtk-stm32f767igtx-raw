@@ -388,7 +388,7 @@
 
   <Group>
     <GroupName>USER</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -984,7 +984,7 @@
 
   <Group>
     <GroupName>AWTK</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2951,7 +2951,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\awtk\src\base\idle_info.c</PathWithFileName>
+      <PathWithFileName>..\awtk\src\tkc\idle_info.c</PathWithFileName>
       <FilenameWithoutPath>idle_info.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2963,7 +2963,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\awtk\src\base\idle_manager.c</PathWithFileName>
+      <PathWithFileName>..\awtk\src\tkc\idle_manager.c</PathWithFileName>
       <FilenameWithoutPath>idle_manager.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2975,7 +2975,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\awtk\src\base\timer_info.c</PathWithFileName>
+      <PathWithFileName>..\awtk\src\tkc\timer_info.c</PathWithFileName>
       <FilenameWithoutPath>timer_info.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -2987,7 +2987,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\awtk\src\base\timer_manager.c</PathWithFileName>
+      <PathWithFileName>..\awtk\src\tkc\timer_manager.c</PathWithFileName>
       <FilenameWithoutPath>timer_manager.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -3616,7 +3616,7 @@
 
   <Group>
     <GroupName>AWTK-DEMOS</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -3864,7 +3864,7 @@
 
   <Group>
     <GroupName>EXT_WIDGETS</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -4273,6 +4273,18 @@
       <bDave2>0</bDave2>
       <PathWithFileName>..\awtk\src\ext_widgets\scroll_label\hscroll_label.c</PathWithFileName>
       <FilenameWithoutPath>hscroll_label.c</FilenameWithoutPath>
+      <RteFlg>0</RteFlg>
+      <bShared>0</bShared>
+    </File>
+    <File>
+      <GroupNumber>14</GroupNumber>
+      <FileNumber>316</FileNumber>
+      <FileType>1</FileType>
+      <tvExp>0</tvExp>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <bDave2>0</bDave2>
+      <PathWithFileName>..\awtk\src\ext_widgets\combo_box_ex\combo_box_ex.c</PathWithFileName>
+      <FilenameWithoutPath>combo_box_ex.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
