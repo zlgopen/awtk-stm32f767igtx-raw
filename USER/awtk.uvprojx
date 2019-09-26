@@ -1710,6 +1710,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\widgets.c</FilePath>
             </File>
+            <File>
+              <FileName>ui_feedback.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\ui_feedback.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3732,6 +3737,11 @@
               <FileName>widgets.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\widgets\widgets.c</FilePath>
+            </File>
+            <File>
+              <FileName>ui_feedback.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\base\ui_feedback.c</FilePath>
             </File>
           </Files>
         </Group>
