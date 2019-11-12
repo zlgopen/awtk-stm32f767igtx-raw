@@ -1725,6 +1725,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\graphic_buffer\graphic_buffer_default.c</FilePath>
             </File>
+            <File>
+              <FileName>digit_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widgets\digit_clock.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -1969,11 +1974,6 @@
               <FileName>ext_widgets.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\ext_widgets.c</FilePath>
-            </File>
-            <File>
-              <FileName>digit_clock.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\time_clock\digit_clock.c</FilePath>
             </File>
             <File>
               <FileName>progress_circle.c</FileName>
@@ -3768,6 +3768,11 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\graphic_buffer\graphic_buffer_default.c</FilePath>
             </File>
+            <File>
+              <FileName>digit_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\widgets\digit_clock.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -4012,11 +4017,6 @@
               <FileName>ext_widgets.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\ext_widgets\ext_widgets.c</FilePath>
-            </File>
-            <File>
-              <FileName>digit_clock.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\time_clock\digit_clock.c</FilePath>
             </File>
             <File>
               <FileName>progress_circle.c</FileName>
