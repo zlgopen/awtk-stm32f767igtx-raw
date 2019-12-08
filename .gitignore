@@ -2,3 +2,5 @@ tags
 awtk
 obj
 user/JLinkLog.txt
+USER/DebugConfig/awtk_STM32F767IGTx_2.0.0.dbgconf
+USER/awtk.uvguix.Admin
