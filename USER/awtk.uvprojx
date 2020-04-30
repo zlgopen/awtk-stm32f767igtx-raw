@@ -16,8 +16,8 @@
         <TargetCommonOption>
           <Device>STM32F767IGTx</Device>
           <Vendor>STMicroelectronics</Vendor>
-          <PackID>Keil.STM32F7xx_DFP.2.9.0</PackID>
-          <PackURL>http://www.keil.com/pack</PackURL>
+          <PackID>Keil.STM32F7xx_DFP.2.12.0</PackID>
+          <PackURL>https://www.keil.com/pack/</PackURL>
           <Cpu>IRAM(0x20020000,0x60000) IRAM2(0x20000000,0x20000) IROM(0x08000000,0x100000) IROM2(0x00200000,0x100000) CPUTYPE("Cortex-M7") FPU3(DFPU) CLOCK(12000000) ELITTLE</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
           <StartupFile></StartupFile>
@@ -184,6 +184,7 @@
             <hadXRAM>0</hadXRAM>
             <uocXRam>0</uocXRam>
             <RvdsVP>3</RvdsVP>
+            <RvdsMve>0</RvdsMve>
             <hadIRAM2>1</hadIRAM2>
             <hadIROM2>1</hadIROM2>
             <StupSel>8</StupSel>
@@ -324,6 +325,7 @@
             <uThumb>0</uThumb>
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
+            <uGnu>0</uGnu>
             <useXO>0</useXO>
             <v6Lang>0</v6Lang>
             <v6LangP>0</v6LangP>
@@ -1855,6 +1857,56 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\asset_loader.c</FilePath>
             </File>
+            <File>
+              <FileName>blend_image_bgr565_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgr565_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgr888_bgr888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgr888_bgr888.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgr888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgr888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgra8888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgra8888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgb565_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgb565_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgb888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgb888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgb888_rgb888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgb888_rgb888.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgba8888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgba8888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>lang_indicator.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\keyboard\lang_indicator.c</FilePath>
+            </File>
+            <File>
+              <FileName>rich_text_view.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_view.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -2179,8 +2231,8 @@
         <TargetCommonOption>
           <Device>STM32F767IGTx</Device>
           <Vendor>STMicroelectronics</Vendor>
-          <PackID>Keil.STM32F7xx_DFP.2.9.0</PackID>
-          <PackURL>http://www.keil.com/pack</PackURL>
+          <PackID>Keil.STM32F7xx_DFP.2.12.0</PackID>
+          <PackURL>https://www.keil.com/pack/</PackURL>
           <Cpu>IRAM(0x20020000,0x60000) IRAM2(0x20000000,0x20000) IROM(0x08000000,0x100000) IROM2(0x00200000,0x100000) CPUTYPE("Cortex-M7") FPU3(DFPU) CLOCK(12000000) ELITTLE</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
           <StartupFile></StartupFile>
@@ -2347,6 +2399,7 @@
             <hadXRAM>0</hadXRAM>
             <uocXRam>0</uocXRam>
             <RvdsVP>3</RvdsVP>
+            <RvdsMve>0</RvdsMve>
             <hadIRAM2>1</hadIRAM2>
             <hadIROM2>1</hadIROM2>
             <StupSel>8</StupSel>
@@ -2487,6 +2540,7 @@
             <uThumb>0</uThumb>
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
+            <uGnu>0</uGnu>
             <useXO>0</useXO>
             <v6Lang>0</v6Lang>
             <v6LangP>0</v6LangP>
@@ -4017,6 +4071,56 @@
               <FileName>asset_loader.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\base\asset_loader.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgr565_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgr565_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgr888_bgr888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgr888_bgr888.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgr888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgr888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_bgra8888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_bgra8888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgb565_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgb565_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgb888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgb888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgb888_rgb888.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgb888_rgb888.c</FilePath>
+            </File>
+            <File>
+              <FileName>blend_image_rgba8888_rgb565.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\blend\blend_image_rgba8888_rgb565.c</FilePath>
+            </File>
+            <File>
+              <FileName>lang_indicator.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\keyboard\lang_indicator.c</FilePath>
+            </File>
+            <File>
+              <FileName>rich_text_view.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk\src\ext_widgets\rich_text\rich_text_view.c</FilePath>
             </File>
           </Files>
         </Group>
