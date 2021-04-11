@@ -2071,9 +2071,9 @@
               <FilePath>..\awtk\src\ext_widgets\color_picker\rgb_and_hsv.c</FilePath>
             </File>
             <File>
-              <FileName>guage.c</FileName>
+              <FileName>gauge.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\gauge\gauge.c</FilePath>
             </File>
             <File>
               <FileName>image_animation.c</FileName>
@@ -2166,9 +2166,9 @@
               <FilePath>..\awtk\src\ext_widgets\progress_circle\progress_circle.c</FilePath>
             </File>
             <File>
-              <FileName>guage_pointer.c</FileName>
+              <FileName>gauge_pointer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\gauge\gauge_pointer.c</FilePath>
             </File>
             <File>
               <FileName>svg_image.c</FileName>
@@ -4299,9 +4299,9 @@
               <FilePath>..\awtk\src\ext_widgets\color_picker\rgb_and_hsv.c</FilePath>
             </File>
             <File>
-              <FileName>guage.c</FileName>
+              <FileName>gauge.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\gauge\gauge.c</FilePath>
             </File>
             <File>
               <FileName>image_animation.c</FileName>
@@ -4394,9 +4394,9 @@
               <FilePath>..\awtk\src\ext_widgets\progress_circle\progress_circle.c</FilePath>
             </File>
             <File>
-              <FileName>guage_pointer.c</FileName>
+              <FileName>gauge_pointer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\awtk\src\ext_widgets\guage\guage_pointer.c</FilePath>
+              <FilePath>..\awtk\src\ext_widgets\gauge\gauge_pointer.c</FilePath>
             </File>
             <File>
               <FileName>svg_image.c</FileName>
