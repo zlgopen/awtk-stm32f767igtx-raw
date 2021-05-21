@@ -32,6 +32,7 @@
 #include "string.h"
 #include "ltdc.h"
 #include "touch.h"
+#include "stm32_jpg_image_loader.h"
 
 #include "base/g2d.h"
 #include "base/idle.h"
@@ -60,6 +61,7 @@ uint8_t platform_disaptch_input(main_loop_t* loop) {
 extern lcd_t* stm32f767_create_lcd(wh_t w, wh_t h);
 
 lcd_t* platform_create_lcd(wh_t w, wh_t h) {
+	image_loader_register(image_loader_stm32_jpg());
   return stm32f767_create_lcd(w, h);
 }
 

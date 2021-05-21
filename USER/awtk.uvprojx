@@ -336,7 +336,7 @@
               <MiscControls>--gnu</MiscControls>
               <Define>USE_HAL_DRIVER,STM32F767xx,ARM_MATH_CM7,__CC_ARM,ARM_MATH_MATRIX_CHECK,ARM_MATH_ROUNDING,__FPU_PRESENT=1,HAS_AWTK_CONFIG</Define>
               <Undefine></Undefine>
-              <IncludePath>..\CORE;..\OBJ;..\USER;..\HALLIB\STM32F7xx_HAL_Driver\Inc;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\HARDWARE\KEY;..\HARDWARE\LED;..\HARDWARE\SDRAM;..\HARDWARE\LCD;..\HARDWARE\IIC;..\HARDWARE\TIMER;..\HARDWARE\24CXX;..\HARDWARE\TOUCH;..\HARDWARE\MPU;..\USMART;..\MALLOC;..\awtk\src\ext_widgets;..\awtk;..\awtk\src;..\awtk\3rd;..\awtk\3rd\nanovg\base;..\awtk\3rd\nanovg;..\awtk\3rd\agge;..\awtk\3rd\libunibreak;..\awtk-port</IncludePath>
+              <IncludePath>..\CORE;..\OBJ;..\USER;..\HALLIB\STM32F7xx_HAL_Driver\Inc;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\HARDWARE\KEY;..\HARDWARE\LED;..\HARDWARE\SDRAM;..\HARDWARE\LCD;..\HARDWARE\IIC;..\HARDWARE\TIMER;..\HARDWARE\24CXX;..\HARDWARE\TOUCH;..\HARDWARE\MPU;..\HARDWARE\JPEGCODEC;..\USMART;..\MALLOC;..\awtk\src\ext_widgets;..\awtk;..\awtk\src;..\awtk\3rd;..\awtk\3rd\nanovg\base;..\awtk\3rd\nanovg;..\awtk\3rd\agge;..\awtk\3rd\libunibreak;..\awtk-port</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -525,6 +525,11 @@
               <FileType>1</FileType>
               <FilePath>..\HALLIB\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_tim_ex.c</FilePath>
             </File>
+            <File>
+              <FileName>stm32f7xx_hal_jpeg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HALLIB\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_jpeg.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -614,6 +619,16 @@
               <FileName>mpu.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\HARDWARE\MPU\mpu.c</FilePath>
+            </File>
+            <File>
+              <FileName>jpeg_utils.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\JPEGCODEC\jpeg_utils.c</FilePath>
+            </File>
+            <File>
+              <FileName>jpegcodec.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\JPEGCODEC\jpegcodec.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1944,6 +1959,11 @@
               <FileName>awtk_config.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\awtk-port\awtk_config.h</FilePath>
+            </File>
+            <File>
+              <FileName>stm32_jpg_image_loader.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk-port\stm32_jpg_image_loader.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2753,6 +2773,11 @@
               <FileType>1</FileType>
               <FilePath>..\HALLIB\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_tim_ex.c</FilePath>
             </File>
+            <File>
+              <FileName>stm32f7xx_hal_jpeg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HALLIB\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_jpeg.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -2842,6 +2867,16 @@
               <FileName>mpu.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\HARDWARE\MPU\mpu.c</FilePath>
+            </File>
+            <File>
+              <FileName>jpeg_utils.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\JPEGCODEC\jpeg_utils.c</FilePath>
+            </File>
+            <File>
+              <FileName>jpegcodec.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\JPEGCODEC\jpegcodec.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -4172,6 +4207,11 @@
               <FileName>awtk_config.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\awtk-port\awtk_config.h</FilePath>
+            </File>
+            <File>
+              <FileName>stm32_jpg_image_loader.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\awtk-port\stm32_jpg_image_loader.c</FilePath>
             </File>
           </Files>
         </Group>
