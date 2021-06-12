@@ -2250,26 +2250,6 @@
               <FileType>1</FileType>
               <FilePath>..\awtk\src\xml\xml_parser.c</FilePath>
             </File>
-            <File>
-              <FileName>cond_var_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\cond_var_null.c</FilePath>
-            </File>
-            <File>
-              <FileName>fs_os.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\fs_os.c</FilePath>
-            </File>
-            <File>
-              <FileName>mutex_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\mutex_null.c</FilePath>
-            </File>
-            <File>
-              <FileName>semaphore_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\semaphore_null.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -4587,26 +4567,6 @@
               <FileName>xml_parser.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk\src\xml\xml_parser.c</FilePath>
-            </File>
-            <File>
-              <FileName>cond_var_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\cond_var_null.c</FilePath>
-            </File>
-            <File>
-              <FileName>fs_os.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\fs_os.c</FilePath>
-            </File>
-            <File>
-              <FileName>mutex_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\mutex_null.c</FilePath>
-            </File>
-            <File>
-              <FileName>semaphore_null.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk\src\platforms\raw\semaphore_null.c</FilePath>
             </File>
           </Files>
         </Group>
