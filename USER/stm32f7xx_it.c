@@ -148,7 +148,7 @@ void DebugMon_Handler(void)
 //void PendSV_Handler(void)
 //{
 //}
-
+extern void tk_sys_tick_inc(uint32_t tick_period);
 /**
   * @brief  This function handles SysTick Handler.
   * @param  None
@@ -156,6 +156,7 @@ void DebugMon_Handler(void)
   */
 void SysTick_Handler(void)
 {
+  tk_sys_tick_inc(1);
   HAL_IncTick();
 }
 
