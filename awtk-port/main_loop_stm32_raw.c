@@ -61,7 +61,8 @@ uint8_t platform_disaptch_input(main_loop_t* loop) {
 extern lcd_t* stm32f767_create_lcd(wh_t w, wh_t h);
 
 lcd_t* platform_create_lcd(wh_t w, wh_t h) {
-	image_loader_register(image_loader_stm32_jpg());
+	/* 由于 flash 不够大，所以屏蔽了硬件解码 jpg，如果有需要的话，可以把 awtk-port\stm32_jpg_image_loader.c 中的文件加入编译，以及打开下面的注册代码 */
+	//image_loader_register(image_loader_stm32_jpg());
   return stm32f767_create_lcd(w, h);
 }
 
