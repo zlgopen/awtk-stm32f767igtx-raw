@@ -2289,7 +2289,7 @@
             <File>
               <FileName>typed_array.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\awtk\src\tkc\typed_array.c</FilePath>
+              <FilePath>..\awtk\src\tkc\typed_array.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -4695,7 +4695,7 @@
             <File>
               <FileName>typed_array.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\awtk\src\tkc\typed_array.c</FilePath>
+              <FilePath>..\awtk\src\tkc\typed_array.c</FilePath>
             </File>
           </Files>
         </Group>

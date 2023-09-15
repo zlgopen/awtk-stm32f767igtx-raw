@@ -5205,7 +5205,7 @@
       <Focus>0</Focus>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\awtk\src\tkc\typed_array.c</PathWithFileName>
+      <PathWithFileName>..\awtk\src\tkc\typed_array.c</PathWithFileName>
       <FilenameWithoutPath>typed_array.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
