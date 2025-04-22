@@ -62,16 +62,11 @@ static void jpeg_hdrover_callback(void) {
 	JPEG_GetDecodeColorConvertFunc(&hjpgd.Conf, &hjpgd.ycbcr2rgb, &hjpgd.total_blks);//获取JPEG色彩转换函数,以及总MCU数
 	
 	if (image != NULL && hjpgd.Conf.ImageWidth > 0 && hjpgd.Conf.ImageHeight > 0) {
-		image->w = hjpgd.Conf.ImageWidth;
-    image->h = hjpgd.Conf.ImageHeight; 
-    image->flags = BITMAP_FLAG_IMMUTABLE;
-    bitmap_set_line_length(image, 0);
 #if LCD_PIXFORMAT == LCD_PIXFORMAT_ARGB8888 
-    image->format = BITMAP_FMT_BGRA8888;
+		bitmap_init(image, hjpgd.Conf.ImageWidth, hjpgd.Conf.ImageHeight, BITMAP_FMT_BGRA8888, NULL);
 #else
-    image->format = BITMAP_FMT_BGR565;
+		bitmap_init(image, hjpgd.Conf.ImageWidth, hjpgd.Conf.ImageHeight, BITMAP_FMT_BGR565, NULL);
 #endif
-    bitmap_alloc_data(image);
 	}
 }
 
